@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Weapon
+  - Dead
+  - Skill
+  - Monster
+  - ManaSprite
+  - HealthSprite
+  - Hp
+  - Mp
+  - Wall
+  - 1
+  - 2
+  - 3
+  - SwordSkill
+  - ring
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 89761847
+    locked: 0
+  - name: Montain
+    uniqueID: 2184513171
+    locked: 0
+  - name: Cloud
+    uniqueID: 1234351011
+    locked: 0
+  - name: Weapon
+    uniqueID: 692021511
+    locked: 0
+  - name: Platform
+    uniqueID: 3379348209
+    locked: 0
+  - name: Player
+    uniqueID: 4034135633
+    locked: 0
+  - name: Monster
+    uniqueID: 2682399357
+    locked: 0
+  - name: Skill
+    uniqueID: 4091555597
+    locked: 0
+  - name: Skill1
+    uniqueID: 983287031
+    locked: 0
